@@ -1,4 +1,3 @@
-👋
 # ¡Hola! 👋 Soy Sofía Zuviría :grin:
 
 Soy estudiante de **Analista en Informática Aplicada** y de **Ingeniería en Informática**.
