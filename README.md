@@ -1,7 +1,8 @@
-# ¡Hola! 👋 Soy Sofía Zuviría :grin: :blush: :smiley: :woman:
+# ¡Hola! 👋 Soy Sofía Zuviría :woman:
 
 Soy estudiante de **Analista en Informática Aplicada** y de **Ingeniería en Informática**.
 
+[<img src="[http://www.google.com.au/images/nav_logo7.png](https://cdn.icon-icons.com/icons2/2201/PNG/512/linkedin_logo_square_icon_134016.png)">]([http://google.com.au/](https://www.linkedin.com/in/szuviria/))
 
 <!--
 **szuviria/szuviria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
