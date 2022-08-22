@@ -1,4 +1,4 @@
-# ¡Hola! 👋 Soy Sofía Zuviría :grin: :blush: :smiley:
+# ¡Hola! 👋 Soy Sofía Zuviría :grin: :blush: :smiley: :woman:
 
 Soy estudiante de **Analista en Informática Aplicada** y de **Ingeniería en Informática**.
 
