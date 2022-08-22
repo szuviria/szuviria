@@ -2,7 +2,7 @@
 
 Soy estudiante de **Analista en Informática Aplicada** y de **Ingeniería en Informática**.
 
-[<img src="https://e7.pngegg.com/pngimages/602/665/png-clipart-linkedin-linkedin.png">](https://www.linkedin.com/in/szuviria/)
+[<img src="https://camo.githubusercontent.com/024f848b809254749e56931d1b3e49767d4ecf43a45da960a508712302824b46/68747470733a2f2f63646e2e69636f6e2d69636f6e732e636f6d2f69636f6e73322f3830352f504e472f3531322f6c696e6b6564696e5f69636f6e2d69636f6e732e636f6d5f36353932392e706e67">](https://www.linkedin.com/in/szuviria/)
 
 <!--
 **szuviria/szuviria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
