@@ -1,4 +1,12 @@
-### Hi there 👋
+👋
+# ¡Hola! 👋 Soy Sofía Zuviría :grin:
+
+Soy estudiante de **Analista en Informática Aplicada** y de **Ingeniería en Informática**.
+
+**¡Puedes contactarme en mis redes sociales👇**
+
+![https://www.linkedin.com/in/szuviria/](https://cdn-icons-png.flaticon.com/512/174/174857.png "Enlace a LinkedIn")
+
 
 <!--
 **szuviria/szuviria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
