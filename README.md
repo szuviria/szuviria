@@ -2,7 +2,7 @@
 
 Soy estudiante de **Analista en Informática Aplicada** y de **Ingeniería en Informática**.
 
-[<img src="https://cdn.icon-icons.com/icons2/2201/PNG/512/linkedin_logo_square_icon_134016.png">](https://www.linkedin.com/in/szuviria/)
+[<img src="https://img1.freepng.es/20171221/lww/linkedin-png-picture-5a3c18567d0457.7108240415138878305121.jpg">](https://www.linkedin.com/in/szuviria/)
 
 <!--
 **szuviria/szuviria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
